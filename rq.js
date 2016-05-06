@@ -597,3 +597,8 @@ var RQ = (function () {
 }());
 
 /*node module.exports = RQ;*/
+
+// eirikt edit
+// CommonJS module export:
+module.exports = RQ;
+// /eirikt edit

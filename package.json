@@ -1,0 +1,16 @@
+{
+    "name": "rq-commonjs",
+    "version": "1.0.0",
+    "description": "Douglas Crockford's RQ - Better living through asynchronicity",
+    "author": "Douglas Crockford <douglas@crockford.com>",
+    "homepage": "http://rq.crockford.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/douglascrockford/RQ.git"
+    },
+    "license": "Public Domain",
+    "bugs": {
+        "url": "https://github.com/douglascrockford/RQ/issues"
+    },
+    "main": "rq.js"
+}
