@@ -1,0 +1,13 @@
+# Always ignore
+.ssh
+
+# Ignore IDE/tools stuff
+.idea
+
+# Ignore generated/derived stuff
+
+# Ignore downloaded stuff
+
+# Ignore development stuff
+dev.log
+npm-debug.log
