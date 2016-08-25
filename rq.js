@@ -596,9 +596,9 @@ var RQ = (function () {
     };
 }());
 
-/*node module.exports = RQ;*/
-
 // eirikt edit
 // CommonJS module export:
-module.exports = RQ;
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = RQ;
+}
 // /eirikt edit
